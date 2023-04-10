@@ -1,3 +1,9 @@
+## 3.3.0 (2023-04-10)
+
+### Feat
+
+- Change default cache dir to workdir
+
 ## 3.2.1 (2022-11-04)
 
 ### Fix

@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "flakeheaven"
-version = "3.2.1"
+version = "3.3.0"
 description = "FlakeHeaven is a [Flake8](https://gitlab.com/pycqa/flake8) wrapper to make it cool."
 authors = ["Gram <master_fess@mail.ru>"]
 repository = "https://github.com/flakeheaven/flakeheaven"
@@ -151,7 +151,7 @@ import_heading_localfolder = "app"
 
 
 [tool.commitizen]
-version = "3.2.1"
+version = "3.3.0"
 annotated_tag = true
 update_changelog_on_bump = true
 bump_message = "bump: $current_version → $new_version"  # keep in sync with .github/workflows/bumpversion.yml!!!
